@@ -1,5 +1,5 @@
-<center><h1 align="center">Hello 👋, I'm Tharushi De Silva</h1></center>
-
+<h1 align="center">Hello 👋, I'm Tharushi De Silva</h1></center>
+---
 <h3 align="center">Undergraduate IT student</h3>
 
 - 🌱 I’m currently learning **Power BI**
