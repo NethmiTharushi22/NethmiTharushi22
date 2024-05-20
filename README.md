@@ -6,7 +6,7 @@
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **nethmitharushi00@gmail.com**
-- 
+
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
@@ -18,7 +18,7 @@
 <td width="50%" align="center">
 
   
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NethmiTharushi22&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
