@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Azure**
 - 🧑‍🎓 I’m an Undergraduate at SLIIT
--
+
 - 💬 Ask me about **JavaScript**
 - 📫 How to reach me **nethmitharushi00@gmail.com**
 
