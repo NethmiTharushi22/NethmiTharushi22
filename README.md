@@ -2,9 +2,8 @@
 <h3 align="center">Undergraduate IT student</h3>
 
 - 🌱 I’m currently learning **Azure**
-
+-🧑‍🎓 I’m an Undergraduate at SLIIT
 - 💬 Ask me about **JavaScript**
-
 - 📫 How to reach me **nethmitharushi00@gmail.com**
 
 <h3 align="center">My Statistics:</h3>
