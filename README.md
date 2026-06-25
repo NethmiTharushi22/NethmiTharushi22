@@ -50,7 +50,7 @@
 </a>
 
 <a href="https://www.uipath.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/uipath/uipath-original.svg" alt="uipath" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/UiPath_logo.svg" alt="UiPath" width="40" height="40"/>
 </a>
 
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
@@ -58,8 +58,9 @@
 </a>
 
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
 </a>
+
 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r studio" width="40" height="40"/>
