@@ -1,10 +1,10 @@
 <h1 align="center">Hello 👋, I'm Tharushi De Silva</h1>
-<h3 align="center">Undergraduate IT student</h3>
+<h3 align="center">Undergraduate Data Science student</h3>
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **BIg Query**
 - 🧑‍🎓 I’m an Undergraduate at SLIIT
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Data Warehousing and AI**
 - 📫 How to reach me **nethmitharushi00@gmail.com**
 
 <h3 align="center">My Statistics:</h3>
