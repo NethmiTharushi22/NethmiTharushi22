@@ -49,9 +49,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40"/>
 </a>
 
-<a href="https://www.uipath.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/UiPath_logo.svg" alt="UiPath" width="40" height="40"/>
-</a>
+
 
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/>
